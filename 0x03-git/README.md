@@ -1,1 +1,1 @@
-Introdaction to github and git.
+collaboration with other on github.
